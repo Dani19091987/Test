@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 import pika
+Lilo Chatoura ktir
 
 connection = pika.BlockingConnection(pika.ConnectionParameters(host='localhost'))
     
